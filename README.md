@@ -1,2 +1,2 @@
 # 2nd-Repo
-I jumped the gun...
+This is my first time ever producing website code.
