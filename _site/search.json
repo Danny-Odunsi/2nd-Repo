@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "Test page.html",
+    "href": "Test page.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to Daniel Odunsi’s page.\nI am a Final year Business Studies student, specialising in Data Analytics."
+  },
+  {
+    "objectID": "Danny.Odunsi.github.io/index.html",
+    "href": "Danny.Odunsi.github.io/index.html",
+    "title": "Danny.Odunsi.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Danny.Odunsi.github.io/about.html",
+    "href": "Danny.Odunsi.github.io/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
